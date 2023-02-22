@@ -1,0 +1,1 @@
+{"819e0f01f43e2a5939b59e2e5d5c95c7":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"fb00b930294ac7f0","status":"failed","statusDetails":"Cannot read properties of undefined (reading 'goto')","time":{"start":1676935868318,"stop":1676935869635,"duration":1317}}]}}
