@@ -1,9 +1,0 @@
-{
-  "uuid": "af4cf6e1-29c6-4c7d-a6e0-d30bdd4ccf8b",
-  "children": [
-    "3703de41-4f61-471a-90cc-ddea921ecc94"
-  ],
-  "befores": [],
-  "afters": [],
-  "name": "main.test.ts"
-}
